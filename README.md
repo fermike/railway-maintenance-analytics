@@ -28,6 +28,9 @@ Demonstrate how maintenance data can be transformed into decision-support inform
 **Excel · Python · Reliability Engineering · CMMS/GMAO · Data Analysis · Data Visualization · Railway Systems**
 
 ## Dashboard
+## Dashboard Preview
+
+![Railway Maintenance Analytics Dashboard](docs/dashboard_preview_2026.png)
 
 The Excel dashboard provides:
 
